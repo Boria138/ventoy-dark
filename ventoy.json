@@ -1,0 +1,208 @@
+{
+  "control": [
+    {
+      "VTOY_DEFAULT_MENU_MODE": "1"
+    }
+  ],
+  "theme": {
+    "file": "/ventoy/themes/Ventoy-Dark/theme.txt"
+  },
+  "menu_class": [
+    {
+      "key": "archlinux",
+      "class": "archlinux"
+    },
+    {
+      "key": "arcolinux",
+      "class": "arcolinux"
+    },
+    {
+      "key": "artix",
+      "class": "artix"
+    },
+    {
+      "key": "ventoy",
+      "class": "ventoy"
+    },
+    {
+      "key": "android",
+      "class": "android"
+    },
+    {
+      "key": "4mlinux",
+      "class": "4MLinux"
+    },
+    {
+      "key": "alphinelinux",
+      "class": "AlphineLinux"
+    },
+    {
+      "key": "debian",
+      "class": "debian"
+    },
+    {
+      "key": "centos",
+      "class": "centos"
+    },
+    {
+      "key": "devuan",
+      "class": "devuan"
+    },
+    {
+      "key": "elementaryos",
+      "class": "elementary"
+    },
+    {
+      "key": "antergos",
+      "class": "antergos"
+    },
+    {
+      "key": "bedrock",
+      "class": "bedrock"
+    },
+    {
+      "key": "chackra",
+      "class": "chackra"
+    },
+    {
+      "key": "deepin",
+      "class": "deepin"
+    },
+    {
+      "key": "EndeavourOS",
+      "class": "endeavouros"
+    },
+    {
+      "key": "garuda",
+      "class": "garuda"
+    },
+    {
+      "key": "freebsd",
+      "class": "freebsd"
+    },
+    {
+      "key": "Fedora",
+      "class": "fedora"
+    },
+    {
+      "key": "gentoo",
+      "class": "gentoo"
+    },
+    {
+      "key": "haiku",
+      "class": "haiku"
+    },
+    {
+      "key": "kali",
+      "class": "kali"
+    },
+    {
+      "key": "kaos",
+      "class": "kaos"
+    },
+    {
+      "key": "karora",
+      "class": "karora"
+    },
+    {
+      "key": "linuxmint",
+      "class": "linuxmint"
+    },
+    {
+      "key": "kubuntu",
+      "class": "kubuntu"
+    },
+    {
+      "key": "lubuntu",
+      "class": "lubuntu"
+    },
+    {
+      "key": "xubuntu",
+      "class": "xubuntu"
+    },
+    {
+      "key": "ubuntu",
+      "class": "ubuntu"
+    },
+    {
+      "key": "mageia",
+      "class": "mageia"
+    },
+    {
+      "key": "manjaro",
+      "class": "manjaro"
+    },
+    {
+      "key": "mate",
+      "class": "mate"
+    },
+    {
+      "key": "mxlinux",
+      "class": "mx-linux"
+    },
+    {
+      "key": "kde-neon",
+      "class": "neon"
+    },
+    {
+      "key": "opensuse",
+      "class": "opensuse"
+    },
+    {
+      "key": "parrot",
+      "class": "parrot"
+    },
+    {
+      "key": "pop-os",
+      "class": "pop-os"
+    },
+    {
+      "key": "rocky",
+      "class": "rocky"
+    },
+    {
+      "key": "zorinos",
+      "class": "zorin"
+    },
+    {
+      "key": "slackware",
+      "class": "slackware"
+    },
+    {
+      "key": "solus",
+      "class": "solus"
+    },
+    {
+      "key": "steamos",
+      "class": "steamos"
+    },
+    {
+      "key": "voidlinux",
+      "class": "void"
+    },
+    {
+      "key": "xerolinux",
+      "class": "xerolinux"
+    },
+		{
+      "key": "Windows10",
+      "class": "windows"
+    },
+    {
+      "key": "Windows11",
+      "class": "windows11"
+    },
+    {
+      "dir": "/Linux",
+      "class": "linux"
+    },
+    {
+      "dir": "/macOS",
+      "class": "macosx"
+    },
+    {
+      "dir": "/Windows",
+      "class": "windowsdir"
+    }
+  ]
+}
