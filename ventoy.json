@@ -1,7 +1,10 @@
 {
   "control": [
     {
-      "VTOY_DEFAULT_MENU_MODE": "1"
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_MAX_SEARCH_LEVEL": "1" },
+        { "VTOY_LINUX_REMOUNT": "1" },
+        { "VTOY_MENU_LANGUAGE": "ru_RU" }
     }
   ],
   "theme": {
