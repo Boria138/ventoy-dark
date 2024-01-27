@@ -186,6 +186,10 @@
             "class": "xerolinux"
         },
         {
+            "key": "lunaos",
+            "class": "lunaos"
+        },
+        {
             "key": "Windows10",
             "class": "windows"
         },
